@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Impyou&#39;s blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sammedhi.github.io/posts/</link>
     <description>Recent content in Posts on Impyou&#39;s blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 11:22:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sammedhi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wrapping the world</title>
-      <link>http://localhost:1313/posts/unity/circular_shader_post/</link>
+      <link>https://sammedhi.github.io/posts/unity/circular_shader_post/</link>
       <pubDate>Sun, 22 Jun 2025 11:22:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/unity/circular_shader_post/</guid>
+      <guid>https://sammedhi.github.io/posts/unity/circular_shader_post/</guid>
       <description>&lt;p&gt;In today&amp;rsquo;s article we will speak about an experiment I wanted to lead to make plateformer more interesting in VR. It started from a simple interrogation &lt;em&gt;&amp;ldquo;2D Plateformer are cool, but can it be cooler to play them in an immersive world ?&amp;rdquo;&lt;/em&gt;.&lt;br&gt;
 Is there a way to get full profit of the 360 environment ? We could just perfom some plane scrolling, it could be interesting but in VR it doesn&amp;rsquo;t feel like the experience would be improved that much over a flat screen. So how could we still keep the 2D idea of the game yet use the 3D aspect of VR, what if we could &amp;hellip; &lt;strong&gt;wrap the world around us !&lt;/strong&gt;&lt;/p&gt;</description>
     </item>

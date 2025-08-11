@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Impyou&#39;s voyage</title>
+    <link>https://sammedhi.github.io/fr/posts/</link>
+    <description>Recent content in Posts on Impyou&#39;s voyage</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 25 Jul 2025 11:22:05 +0200</lastBuildDate>
+    <atom:link href="https://sammedhi.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Envelopper le monde avec Unity</title>
+      <link>https://sammedhi.github.io/fr/posts/unity/circular_shader_post/</link>
+      <pubDate>Fri, 25 Jul 2025 11:22:05 +0200</pubDate>
+      <guid>https://sammedhi.github.io/fr/posts/unity/circular_shader_post/</guid>
+      <description>&lt;p&gt;Dans l&amp;rsquo;article d&amp;rsquo;aujourd&amp;rsquo;hui, nous parlerons d&amp;rsquo;une expérience que je voulais mener pour rendre les jeux de type plateformers 2D plus intéressants en VR. Tout est parti d&amp;rsquo;une simple interrogation &lt;em&gt;&amp;ldquo;Peux t-on rendre les platformers 2D plus cool à jouer dans un monde immersif ?&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Existe-t-il un moyen de tirer pleinement profit de l&amp;rsquo;environnement à 360° ? On pourrait simplement faire défiler le monde, ce serait intéressant à experimenter mais cela ne donne pas l&amp;rsquo;impression que l&amp;rsquo;expérience serait tellement améliorée en VR par rapport à un écran. Alors, comment pourrions-nous garder l&amp;rsquo;idée 2D du jeu tout en utilisant l&amp;rsquo;aspect 3D de la VR ? Et si on pouvait&amp;hellip; &lt;strong&gt;envelopper le monde autour de nous !&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

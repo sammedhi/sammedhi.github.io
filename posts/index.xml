@@ -5,16 +5,16 @@
     <link>https://sammedhi.github.io/posts/</link>
     <description>Recent content in Posts on Impyou&#39;s voyage</description>
     <generator>Hugo -- 0.147.8</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 25 Jul 2025 11:22:05 +0200</lastBuildDate>
     <atom:link href="https://sammedhi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wrapping the world</title>
+      <title>Wrapping the world with Unity</title>
       <link>https://sammedhi.github.io/posts/unity/circular_shader_post/</link>
       <pubDate>Fri, 25 Jul 2025 11:22:05 +0200</pubDate>
       <guid>https://sammedhi.github.io/posts/unity/circular_shader_post/</guid>
-      <description>&lt;p&gt;In today&amp;rsquo;s article we will speak about an experiment I wanted to lead to make plateformer more interesting in VR. It started from a simple interrogation &lt;em&gt;&amp;ldquo;2D Plateformer are cool, but can it be cooler to play them in an immersive world ?&amp;rdquo;&lt;/em&gt;.&lt;br&gt;
-Is there a way to get full profit of the 360 environment ? We could just perfom some plane scrolling, it could be interesting but in VR it doesn&amp;rsquo;t feel like the experience would be improved that much over a flat screen. So how could we still keep the 2D idea of the game yet use the 3D aspect of VR, what if we could &amp;hellip; &lt;strong&gt;wrap the world around us !&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;In today&amp;rsquo;s article we will talk about an experiment I wanted to conduct to make platformer more interesting in VR. It started from a simple thought &lt;em&gt;&amp;ldquo;2D Platformer are cool, but can it be cooler to play them in an immersive world ?&amp;rdquo;&lt;/em&gt;.&lt;br&gt;
+Is there a way to make full use of the 360 environment ? We could just perform simple plane scrolling, it could be interesting but in VR it doesn&amp;rsquo;t feel like the experience would be improved that much over a flat screen. So how could we still keep the 2D idea of the game yet use the 3D aspect of VR, what if we could &amp;hellip; &lt;strong&gt;wrap the world around us!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
